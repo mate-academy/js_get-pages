@@ -12,7 +12,7 @@
  *
  * @return {array}
  */
-const getPages = ({ totalCount, perPage }) => {
+const getPages = () => {
   // write code here
 };
 
