@@ -1,4 +1,4 @@
-# Array of people
+# Get pages
 
 **Read the guideline before start**
 
