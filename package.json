@@ -2,7 +2,7 @@
   "name": "js-task-get-pages",
   "version": "1.0.0",
   "description": "js task get-pages",
-  "main": "src/get-pages.js",
+  "main": "src/paginate.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint **/*.js"
